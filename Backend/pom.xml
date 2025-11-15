@@ -11,7 +11,7 @@
 	<groupId>com.klef</groupId>
 	<artifactId>Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	
 	<name>BACKEND</name>
 	<description>Jenkins FullStackProject Demo</description>
 	<url/>
